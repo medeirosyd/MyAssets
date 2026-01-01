@@ -36,5 +36,5 @@ python myassets.py
 
 ## Current Status
 
-Item 1: Core CLI inventory system — In progress
+Core CLI inventory system — In progress
 
