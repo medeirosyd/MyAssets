@@ -2,14 +2,10 @@
 
 MyAssets is a CLI-based inventory management tool written in Python.
 
----
-
 ## What It Is
 
 MyAssets is a terminal-only application designed to manage assets through a simple, letter-based menu system.  
 It allows users to store, view, modify, and export inventory data using CSV files.
-
----
 
 ## How to Run
 
@@ -18,8 +14,7 @@ Requirements:
 
 Run the program from the terminal:
 
-python myassets.py
-
+myassets.py
 
 ## What It Does
 
@@ -32,9 +27,11 @@ python myassets.py
 * Export inventory data to CSV
 * Safely handle invalid user input
 
----
-
 ## Current Status
+
+Initial requirements in progress
+
+
 
 Core CLI inventory system — In progress
 
