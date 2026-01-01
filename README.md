@@ -29,9 +29,7 @@ myassets.py
 
 ## Current Status
 
-Initial requirements in progress
+Initial requirements - In progress
 
-
-
-Core CLI inventory system — In progress
+Code — In progress
 
